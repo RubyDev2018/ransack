@@ -1,0 +1,15 @@
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/koji_koji/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190612-29034-106rw5i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190612-29034-popopg/bootsnap

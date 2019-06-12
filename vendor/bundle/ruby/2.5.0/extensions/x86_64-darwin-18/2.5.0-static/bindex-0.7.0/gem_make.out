@@ -1,0 +1,15 @@
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/koji_koji/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190612-29034-pi2ma.rb extconf.rb
+creating Makefile
+
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/koji_koji/rails/ransack/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190612-29034-1q7nefl/skiptrace
